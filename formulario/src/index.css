@@ -60,11 +60,11 @@
 
 .input,
 .select {
-  margin: 8px 10px; /* Distância das bordas internas */
+  margin: 8px 10px; 
   background-color: white;
   color: black;
   padding: 12px;
-  width: calc(100% - 20px); /* Garante que o tamanho respeite o espaço */
+  width: calc(100% - 20px); 
   border: solid 2px #004c9c;
   border-radius: 5px;
   box-sizing: border-box;
